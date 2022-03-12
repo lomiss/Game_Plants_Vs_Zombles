@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b037e5a411e9df408102c0aee8498d0, type: 3}
+  m_Name: GameConf
+  m_EditorClassIdentifier: 
+  EFAudio: {fileID: 1054102001651071042, guid: 80b0bfb99fe034440a46d32bcd435818, type: 3}
+  ButtonClick: {fileID: 8300000, guid: bf03c1238140af74592e98ae79a41e7f, type: 3}
+  Pause: {fileID: 8300000, guid: b627f578f9e92a448848c591f0f00f3a, type: 3}
+  Shovel: {fileID: 8300000, guid: c22ba31d3689ada409e39c618e7c7708, type: 3}
+  Place: {fileID: 8300000, guid: cae4c9e57297f7f4b87518cff329c78c, type: 3}
+  SunClick: {fileID: 8300000, guid: 0254e0471fd5b2745b70eba41b278077, type: 3}
+  ZombieEat: {fileID: 8300000, guid: 95cec4a21ee77a444963e098a4bae57b, type: 3}
+  ZombieHurtByPea: {fileID: 8300000, guid: 6d85baddeb37c2e43bb8f351a38c1ea7, type: 3}
+  ZombieGroan: {fileID: 8300000, guid: 34ef520de284eb34fa5f144b3b80a5f0, type: 3}
+  GameOver: {fileID: 8300000, guid: 4d55a11ab67e2b6499d4b31886647f27, type: 3}
+  Boom: {fileID: 8300000, guid: 39d4e4fbcb90e9b48b672b7a4cc13fde, type: 3}
+  Sun: {fileID: 1136373228450225904, guid: 1c73cd8f541dd224dbf2e0f330a1038e, type: 3}
+  SunFlower: {fileID: 976599965003342389, guid: 6b87c83c0ea7867488b3371c7bcaff45, type: 3}
+  PeaShooter: {fileID: 5998416014242178974, guid: 0dd4311cab2e2364489c3d36bba27ab4, type: 3}
+  WallNut: {fileID: 237367928481375926, guid: c3e4b1bfd553e144eada105777dab690, type: 3}
+  Spike: {fileID: 8264207238502111771, guid: 28e9846e4e4bcbc4da22cb13e3a19a82, type: 3}
+  Cherry: {fileID: 2761602078826019101, guid: cfad9e888d5602d41ac6d2eb15e90c2e, type: 3}
+  Zombie_Head: {fileID: 4080001316055849365, guid: 2bea7ceb6328a0a4b8938dbd6e345015, type: 3}
+  Zombie_DieBody: {fileID: 4827545513550542380, guid: 41586dd5ff4b52e438ad5435a83fd458, type: 3}
+  Zombie: {fileID: 7587461159989059537, guid: e0aff0cfd5abfb94f8816872797b4816, type: 3}
+  FlagZombie: {fileID: 7042342258992900386, guid: d9f76ff4d59b58445a89d1797bea264d, type: 3}
+  ConeheadZombie: {fileID: 7588260991210445348, guid: 1b8129172873323449c73a84c78aec1f, type: 3}
+  BucketheadZombie: {fileID: 3479586348408824732, guid: 25011d547512cf845a885cbc9379b9cf, type: 3}
+  Bullet1: {fileID: 440891613740170826, guid: fe95c6903d96fab448d9de713afd5080, type: 3}
+  Bullet1Nor: {fileID: 21300000, guid: b6372bc55a4872d40b4c342c28337821, type: 3}
+  BulletHit: {fileID: 21300000, guid: 872c6bd918b1246408971b9b325ebcc6, type: 3}
+  BoomObj: {fileID: 5867856103552833586, guid: a3f0051ec0659a541b3f25b52bcf904c, type: 3}
